@@ -12,7 +12,7 @@ logging:
   level:
     io:
       pivotal:
-        DEBUG
+        INFO
 
 greeting:
   displayFortune: 
