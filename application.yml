@@ -2,12 +2,14 @@ security:
   basic:
     enabled: 
       false
+
 management:
   security:
     enabled: 
       false
- logging:
+
+logging:
   level:
     io:
-      pivotal: 
+      pivotal:
         DEBUG
